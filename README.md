@@ -11,4 +11,5 @@ Using google spread sheet as data base with python
 
 
 **Note 1 : 'info' is the name of the spreadsheet, change accordingly**
+
 **Note 2 : 'dbms.json' is the crediential .json file, change accordingly** 
